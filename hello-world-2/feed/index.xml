@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="https://rentmyboatae/hello-world-2/feed/" rel="self" type="application/rss+xml" />
-	<link>https://rentmyboatae/hello-world-2/</link>
+	<atom:link href="https://rentmyboat.ae/hello-world-2/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rentmyboat.ae/hello-world-2/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Wed, 08 Jul 2020 10:19:18 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		By: A WordPress Commenter		</title>
-		<link>https://rentmyboatae/hello-world-2/#comment-2</link>
+		<link>https://rentmyboat.ae/hello-world-2/#comment-2</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Wed, 08 Jul 2020 10:19:18 +0000</pubDate>
@@ -38,7 +38,7 @@ Commenter avatars come from <a href=\"https://gravatar.com/" rel=\"nofollow ugc\
 		<item>
 		<title>
 		By: A WordPress Commenter		</title>
-		<link>https://rentmyboatae/hello-world-2/#comment-3</link>
+		<link>https://rentmyboat.ae/hello-world-2/#comment-3</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Wed, 24 Jun 2020 14:06:04 +0000</pubDate>
