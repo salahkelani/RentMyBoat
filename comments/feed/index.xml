@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for RentMyBoat	</title>
-	<atom:link href="rentmyboat.ae/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>rentmyboat.ae/</link>
+	<atom:link href="http://localhost/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rentmyboat.ae/</link>
 	<description></description>
 	<lastBuildDate>Tue, 18 Oct 2022 02:28:54 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>rentmyboat.ae/hello-world/#comment-1</link>
+		<link>https://rentmyboat.ae/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Tue, 18 Oct 2022 02:28:54 +0000</pubDate>
-		<guid isPermaLink="false">rentmyboat.ae/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://rentmyboat.ae/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
@@ -38,7 +38,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.</p>
 		<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>rentmyboat.ae/hello-world-2/#comment-2</link>
+		<link>https://rentmyboat.ae/hello-world-2/#comment-2</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Wed, 08 Jul 2020 10:19:18 +0000</pubDate>
@@ -56,7 +56,7 @@ Commenter avatars come from <a href=\"https://gravatar.com/" rel=\"nofollow ugc\
 		<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>rentmyboat.ae/hello-world-2/#comment-3</link>
+		<link>https://rentmyboat.ae/hello-world-2/#comment-3</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Wed, 24 Jun 2020 14:06:04 +0000</pubDate>
