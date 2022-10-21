@@ -9,9 +9,9 @@
 
 <channel>
 	<title>Skelani92@gmail.com &#8211; RentMyBoat</title>
-	<atom:link href="rentmyboat.ae/author/skelani92gmail-com/feed/" rel="self" type="application/rss+xml" />
-	<link>rentmyboat.ae/</link>
-	<description>Just another WordPress site</description>
+	<atom:link href="http://localhost/author/skelani92gmail-com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rentmyboat.ae/</link>
+	<description></description>
 	<lastBuildDate>Tue, 18 Oct 2022 02:28:54 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
@@ -19,30 +19,38 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.3</generator>
+
+<image>
+	<url>https://rentmyboat.ae/wp-content/uploads/2022/10/LOGO-RENT-MY-BOAT-Copy-150x150.png</url>
+	<title>Skelani92@gmail.com &#8211; RentMyBoat</title>
+	<link>https://rentmyboat.ae/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Hello world!</title>
-		<link>rentmyboat.ae/hello-world/</link>
-					<comments>rentmyboat.ae/hello-world/#comments</comments>
+		<link>https://rentmyboat.ae/hello-world/</link>
+					<comments>https://rentmyboat.ae/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[Skelani92@gmail.com]]></dc:creator>
 		<pubDate>Tue, 18 Oct 2022 02:28:54 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">rentmyboat.ae/?p=1</guid>
+		<guid isPermaLink="false">https://rentmyboat.ae/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>rentmyboat.ae/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://rentmyboat.ae/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Hello world!</title>
-		<link>rentmyboat.ae/hello-world-2/</link>
-					<comments>rentmyboat.ae/hello-world-2/#comments</comments>
+		<link>https://rentmyboat.ae/hello-world-2/</link>
+					<comments>https://rentmyboat.ae/hello-world-2/#comments</comments>
 		
 		<dc:creator><![CDATA[Skelani92@gmail.com]]></dc:creator>
 		<pubDate>Wed, 08 Jul 2020 10:19:18 +0000</pubDate>
@@ -53,15 +61,15 @@
 										<content:encoded><![CDATA[<p>Welcome to <a href="http://wptrees.com/">WP Trees Sites</a>. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>rentmyboat.ae/hello-world-2/feed/</wfw:commentRss>
+					<wfw:commentRss>https://rentmyboat.ae/hello-world-2/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Nam rutrum pellentesque euismod</title>
-		<link>rentmyboat.ae/nam-rutrum-pellentesque-euismod/</link>
-					<comments>rentmyboat.ae/nam-rutrum-pellentesque-euismod/#respond</comments>
+		<link>https://rentmyboat.ae/nam-rutrum-pellentesque-euismod/</link>
+					<comments>https://rentmyboat.ae/nam-rutrum-pellentesque-euismod/#respond</comments>
 		
 		<dc:creator><![CDATA[Skelani92@gmail.com]]></dc:creator>
 		<pubDate>Mon, 19 Aug 2019 12:58:00 +0000</pubDate>
@@ -86,7 +94,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter"><img width="1024" height="683" src="https://wptrees.com/primaapp/wp-content/uploads/sites/2/2019/08/PA-blog-post-2-1-kishf823sdf-1024x683.jpg" alt="" class="wp-image-155" srcset="rentmyboat.ae/wp-content/uploads/2019/08/PA-blog-post-2-1-kishf823sdf-1024x683.jpg 1024w, rentmyboat.ae/wp-content/uploads/2019/08/PA-blog-post-2-1-kishf823sdf-300x200.jpg 300w, rentmyboat.ae/wp-content/uploads/2019/08/PA-blog-post-2-1-kishf823sdf-768x512.jpg 768w, rentmyboat.ae/wp-content/uploads/2019/08/PA-blog-post-2-1-kishf823sdf.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img width="1024" height="683" src="https://wptrees.com/primaapp/wp-content/uploads/sites/2/2019/08/PA-blog-post-2-1-kishf823sdf-1024x683.jpg" alt="" class="wp-image-155" srcset="https://rentmyboat.ae/wp-content/uploads/2019/08/PA-blog-post-2-1-kishf823sdf-1024x683.jpg 1024w, https://rentmyboat.ae/wp-content/uploads/2019/08/PA-blog-post-2-1-kishf823sdf-300x200.jpg 300w, https://rentmyboat.ae/wp-content/uploads/2019/08/PA-blog-post-2-1-kishf823sdf-768x512.jpg 768w, https://rentmyboat.ae/wp-content/uploads/2019/08/PA-blog-post-2-1-kishf823sdf.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
 
 
 
@@ -101,7 +109,7 @@
 <p>Integer pulvinar lacus eget elementum tincidunt. Cras lobortis interdum elit. Curabitur quis nulla sed ligula efficitur pretium. Sed vulputate dui cursus dictum posuere. Duis tempus magna ut facilisis rutrum. Duis efficitur tincidunt efficitur. Vestibulum pellentesque nibh nunc, egestas consequat mi pharetra vitae. Nullam eget blandit ex. Vivamus consectetur metus sem, a euismod justo euismod at.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>rentmyboat.ae/nam-rutrum-pellentesque-euismod/feed/</wfw:commentRss>
+					<wfw:commentRss>https://rentmyboat.ae/nam-rutrum-pellentesque-euismod/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
